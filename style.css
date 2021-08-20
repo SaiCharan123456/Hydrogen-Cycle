@@ -1,0 +1,22 @@
+html, body {
+  margin: 10000000;
+  padding: 10;
+}
+canvas {
+  display: block;
+  border :8px solid maroon;
+  margin-right: 150;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+} 
+.inputBox {
+margin: 10;
+margin-top: 200;
+
+}
+/*.mainButton{
+  border: 2px;
+  width: 50;
+  height: 50;
+}*/
